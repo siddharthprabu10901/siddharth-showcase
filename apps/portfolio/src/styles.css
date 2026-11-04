@@ -90,19 +90,6 @@ a svg {
 .site-header nav a:hover {
   color: var(--green);
 }
-.header-contact {
-  display: flex;
-  align-items: center;
-  gap: 17px;
-  border: 1px solid #dfe5d5;
-  border-radius: 6px;
-  padding: 11px 15px;
-  font-size: 11px;
-  color: #5a7051;
-}
-.header-contact:hover {
-  background: #f0f3e8;
-}
 .hero {
   display: grid;
   grid-template-columns: 1.37fr 1fr;
@@ -1180,22 +1167,6 @@ a svg {
 .contact-heading h2 em {
   color: #8ba074;
 }
-.contact-circle {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 76px;
-  height: 76px;
-  border-radius: 50%;
-  background: #d9e3ca;
-  border: 1px solid #cbdab7;
-  color: #7d9865;
-  margin-right: 10px;
-  transition: background 0.2s;
-}
-.contact-circle:hover {
-  background: #cadbb7;
-}
 .contact-bottom {
   display: flex;
   align-items: center;
@@ -1387,8 +1358,7 @@ a svg {
   font-size: 10px;
   color: #7f8d74;
 }
-.site-header nav a,
-.header-contact {
+.site-header nav a {
   font-size: 13px;
 }
 .button {
@@ -1817,11 +1787,6 @@ a svg {
   .site-header nav a {
     font-size: 11px;
   }
-  .header-contact {
-    font-size: 10px;
-    gap: 10px;
-    padding: 10px 12px;
-  }
   .hero {
     grid-template-columns: 1fr;
     padding: 55px 0 37px;
@@ -2111,15 +2076,6 @@ a svg {
     font-size: 35px;
     letter-spacing: -1.1px;
   }
-  .contact-circle {
-    height: 53px;
-    width: 53px;
-    flex-shrink: 0;
-    margin-right: 0;
-  }
-  .contact-circle > svg {
-    width: 27px;
-  }
   .contact-bottom {
     flex-direction: column;
     align-items: flex-start;
@@ -2171,10 +2127,6 @@ a svg {
   }
   .wordmark {
     font-size: 35px;
-  }
-  .header-contact {
-    margin-left: auto;
-    margin-right: 14px;
   }
   .mobile-menu {
     display: inline-flex;
@@ -2401,10 +2353,6 @@ a svg {
   .contact-heading h2 {
     font-size: 29px;
     letter-spacing: -1px;
-  }
-  .contact-circle {
-    width: 45px;
-    height: 45px;
   }
   .contact-heading {
     gap: 10px;

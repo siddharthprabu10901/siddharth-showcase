@@ -238,10 +238,6 @@ export default function App() {
               About
             </a>
           </nav>
-          <a className="header-contact" href={`mailto:${profile.email}`}>
-            Let’s talk
-            <ArrowUpRight size={15} />
-          </a>
           <button
             className="icon-button mobile-menu"
             aria-label={menu ? "Close navigation" : "Open navigation"}
@@ -695,13 +691,6 @@ export default function App() {
                 <br />
                 <em>to work on?</em>
               </h2>
-              <a
-                className="contact-circle"
-                href={`mailto:${profile.email}`}
-                aria-label="Email Siddharth"
-              >
-                <ArrowUpRight size={37} />
-              </a>
             </div>
             <div className="contact-bottom">
               <p>
