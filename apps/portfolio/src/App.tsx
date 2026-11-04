@@ -262,13 +262,13 @@ export default function App() {
                 Hello, I’m Siddharth<span className="wave-mark">↗</span>
               </p>
               <h1>
-                Thoughtful interfaces.
+                Enterprise interfaces.
                 <br />
-                <em>Dependable software.</em>
+                <em>Built for reuse.</em>
               </h1>
               <p className="hero-description">
-                Senior Software Engineer at Odessa, turning complex enterprise
-                requirements into clear, usable web experiences.
+                Senior Software Engineer at Odessa, building shared UI framework
+                capabilities for enterprise leasing and finance applications.
               </p>
               <p className="hero-secondary">
                 JavaScript, jQuery and Syncfusion are my everyday tools. I’m
@@ -450,20 +450,44 @@ export default function App() {
               {(
                 [
                   {
-                    id: "grids",
-                    icon: Grid2X2,
-                    title: "More useful enterprise grids",
+                    id: "cards",
+                    icon: Layers3,
+                    title: "Configuration-driven card layouts",
                     description:
-                      "Saved views, filters and configurable columns for data-heavy enterprise workflows.",
-                    label: "JAVASCRIPT / JQUERY / SYNCFUSION",
+                      "A reusable grid type that renders card-based layouts from configuration, without screen-specific JavaScript or CSS.",
+                    label: "REUSABLE COMPONENTS / JAVASCRIPT",
                   },
                   {
                     id: "workflows",
                     icon: Workflow,
-                    title: "Clearer paths through complex workflows",
+                    title: "Safer navigation through complex workflows",
                     description:
-                      "Shared navigation components, workflow UI and Playwright release sanity testing.",
-                    label: "ENTERPRISE UI / PLAYWRIGHT",
+                      "Configurable breadcrumbs, unsaved-change protection and wizard actions. Breadcrumb delivery across four stories and seven pull requests.",
+                    label: "NAVIGATION / CONFIGURATION",
+                  },
+                  {
+                    id: "grids",
+                    icon: Grid2X2,
+                    title: "Configurable enterprise grids",
+                    description:
+                      "Row-level conditional actions, column management, saved views and favourites across portal workflows.",
+                    label: "DATA GRIDS / JQUERY",
+                  },
+                  {
+                    id: "formatting",
+                    icon: Braces,
+                    title: "Consistent regional money formatting",
+                    description:
+                      "Defined grouping and separator rules for ten regions, with consistent values across inputs, display fields and grids.",
+                    label: "REGIONAL FORMATTING / VALIDATION",
+                  },
+                  {
+                    id: "upgrade",
+                    icon: ShieldCheck,
+                    title: "A planned Syncfusion component upgrade",
+                    description:
+                      "Owned the 25.1.39-to-29.2.10 upgrade across server packages and browser assets. Seventeen days from analysis to merge.",
+                    label: "SYNCFUSION / COMPATIBILITY",
                   },
                 ] as const
               ).map(({ id, icon: Icon, title, description, label }) => (
@@ -512,6 +536,12 @@ export default function App() {
                 work.
               </p>
             </div>
+            <div className="delivery-metrics" aria-label="Professional contribution record">
+              <div><strong>495</strong><span>Work items contributed</span></div>
+              <div><strong>456</strong><span>In completed states</span></div>
+              <div><strong>4 + 9</strong><span>Docs published + contributed to</span></div>
+              <p>August 2022–November 2026 contribution record. Work items include bugs, stories and tasks; completed states cover closed, released, done or resolved items.</p>
+            </div>
             <div className="experience-layout">
               <div className="company-card">
                 <span className="company-monogram">O</span>
@@ -532,9 +562,10 @@ export default function App() {
                     <span>APR 2025 — PRESENT</span>
                   </div>
                   <p>
-                    Frontend-focused feature delivery, shared component
-                    improvements, production issue resolution and release
-                    validation.
+                    Shared UI framework delivery: configurable breadcrumbs and card
+                    layouts, portal grid preferences, regional formatting and the
+                    Syncfusion upgrade. Documented configuration and validation
+                    guidance for product teams.
                   </p>
                   <div className="timeline-chip">
                     Current role
@@ -548,9 +579,9 @@ export default function App() {
                     <span>MAY 2023 — APR 2025</span>
                   </div>
                   <p>
-                    Built enterprise UI features, reusable components, data-grid
-                    preferences and navigation interactions with JavaScript,
-                    jQuery and Syncfusion.
+                    Built reusable UI components, wizard navigation, origination
+                    styles and chart layouts with JavaScript, jQuery and Syncfusion.
+                    Collaborated with product and QA through validation and release.
                   </p>
                 </article>
                 <article className="timeline-item">
@@ -583,10 +614,11 @@ export default function App() {
                 feel easier.
               </p>
               <p>
-                I enjoy translating requirements into practical interfaces,
-                improving shared components and understanding the reason behind
-                a UI issue. Alongside my frontend work, I have worked on MVC
-                requirements, basic C# changes and SQL for UI needs.
+                My work starts with reproducing the problem and finding its cause
+                in the shared framework. I compare options, build configurable
+                behaviour, validate changes and document how product teams can use
+                them. Supporting work includes MVC requirements, basic C# changes
+                and SQL for UI needs.
               </p>
               <div className="education">
                 <span className="education-icon">

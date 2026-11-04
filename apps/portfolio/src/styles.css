@@ -821,6 +821,49 @@ a svg {
   border: 1px solid #e2e7d9;
   border-radius: 10px;
 }
+.work-case:last-child:nth-child(odd) {
+  grid-column: 1 / -1;
+}
+.delivery-metrics {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 22px;
+  margin: 0 0 42px;
+  padding: 26px 0;
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+}
+.delivery-metrics > div {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+}
+.delivery-metrics strong {
+  font-family: Manrope, sans-serif;
+  font-size: clamp(24px, 4vw, 38px);
+  color: #35523c;
+}
+.delivery-metrics span {
+  font-size: 12px;
+  line-height: 1.6;
+  color: #61725a;
+}
+.delivery-metrics > p {
+  grid-column: 1 / -1;
+  margin: 0;
+  font-size: 11px;
+  line-height: 1.7;
+  color: #677761;
+  max-width: 780px;
+}
+@media (max-width: 600px) {
+  .delivery-metrics {
+    gap: 18px 12px;
+  }
+  .delivery-metrics span {
+    font-size: 10px;
+  }
+}
 .work-case-top {
   display: flex;
   align-items: center;

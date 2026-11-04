@@ -1,9 +1,9 @@
 # Siddharth P — Engineering Showcase
 
-**Senior Software Engineer · Enterprise Frontend**  
+**Senior Software Engineer · Enterprise UI and JavaScript Frameworks**  
 JavaScript · jQuery · Syncfusion · HTML5 · CSS3 · Playwright
 
-I build and maintain enterprise interfaces at Odessa Technologies, with 4+ years of experience across shared UI components, data grids, workflow navigation, production issue resolution and release validation. This repository brings together my portfolio, an independent React project and high-level professional case studies.
+I build shared UI framework capabilities at Odessa Technologies, with 4+ years of experience across configuration-driven components, enterprise grids, navigation, component-library upgrades and release validation. This repository brings together my portfolio, an independent React project and high-level professional case studies.
 
 [Portfolio website](https://siddharthprabu10901.github.io/siddharth-showcase/) · [Flowdesk demo](https://siddharthprabu10901.github.io/siddharth-showcase/flowdesk/) · [LinkedIn](https://www.linkedin.com/in/siddharth-p-07a967217)
 
@@ -13,9 +13,18 @@ I build and maintain enterprise interfaces at Odessa Technologies, with 4+ years
 | --- | --- | --- |
 | **Flowdesk** | Expense creation, validation, search, filtering, approval/rejection, bulk review, activity history and CSV export | [Application source](apps/flowdesk) · [Architecture](docs/architecture.md) |
 | **Portfolio** | Professional background, project walkthroughs, responsive layout and contact details | [Application source](apps/portfolio) |
-| **Enterprise UI at Odessa** | Grid preferences, contextual actions, shared navigation and Playwright release sanity testing | [Professional case studies](docs/professional-case-studies.md) |
+| **Enterprise UI at Odessa** | Configuration-driven card layouts, safe navigation, conditional grid actions, regional formatting and the Syncfusion upgrade | [Professional case studies](docs/professional-case-studies.md) |
 
 React and TypeScript are **personal project skills**. My professional frontend experience centres on JavaScript, jQuery and Syncfusion. Supporting work includes ASP.NET MVC requirements, basic C# changes and SQL for UI needs; Web API knowledge is basic.
+
+## Professional delivery highlights
+
+- Breadcrumb navigation delivered across four stories and seven pull requests.
+- Syncfusion 25.1.39 to 29.2.10 upgrade: seventeen days from analysis to merge, followed by targeted validation.
+- Monetary formatting rules defined for ten regions; documented QA covers Indian, Western and European cases.
+- Four documentation pages published and contributions to nine shared pages.
+
+[Read the five professional case studies](docs/professional-case-studies.md). These are production JavaScript/jQuery contributions; React and TypeScript remain personal-project skills.
 
 ## Flowdesk highlights
 
