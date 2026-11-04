@@ -80,4 +80,4 @@ Tutorials and rebuild exercises are maintained separately in [Flowdesk's educati
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/siddharth-p-07a967217) · [GitHub](https://github.com/siddharthprabu10901) · siddharthprabu10901@gmail.com  
-Based in Coimbatore; open to opportunities in Tamil Nadu and Bengaluru.
+Working in Bengaluru; hometown Coimbatore. Open to opportunities in Tamil Nadu and Bengaluru.

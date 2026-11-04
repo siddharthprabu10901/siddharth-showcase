@@ -4,7 +4,7 @@ export const profile = {
   name: "Siddharth P",
   title: "Senior Software Engineer",
   company: "Odessa Technologies",
-  location: "Coimbatore, Tamil Nadu",
+  location: "Bengaluru, Karnataka",
   email: "siddharthprabu10901@gmail.com",
   linkedin: "https://www.linkedin.com/in/siddharth-p-07a967217",
   github: "https://github.com/siddharthprabu10901/siddharth-showcase",

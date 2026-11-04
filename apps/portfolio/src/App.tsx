@@ -604,7 +604,8 @@ export default function App() {
                 <em>people actually use.</em>
               </h2>
               <p>
-                I’m a software engineer based in Coimbatore. Much of my work
+                I’m a software engineer working in Bengaluru, originally from
+                Coimbatore. Much of my work
                 lives in enterprise applications, where small details in
                 navigation, data grids and forms can make a complicated workflow
                 feel easier.
