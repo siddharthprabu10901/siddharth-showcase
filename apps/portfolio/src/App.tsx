@@ -268,8 +268,8 @@ export default function App() {
               </p>
               <p className="hero-secondary">
                 JavaScript, jQuery and Syncfusion are my everyday tools. I’m
-                expanding my frontend practice through React and TypeScript
-                projects.
+                learning React and exploring TypeScript basics through AI-assisted
+                personal projects.
               </p>
               <div className="hero-actions">
                 <a className="button primary" href="#work">
@@ -351,9 +351,9 @@ export default function App() {
                 </div>
               </div>
               <div className="experience-stamp">
-                <strong>4+</strong>
+                <strong>3+</strong>
                 <span>
-                  years building
+                  years full-time
                   <br />
                   enterprise software
                 </span>
@@ -532,11 +532,11 @@ export default function App() {
                 work.
               </p>
             </div>
-            <div className="delivery-metrics" aria-label="Professional contribution record">
+            <div className="delivery-metrics" aria-label="Odessa contribution record">
               <div><strong>495</strong><span>Work items contributed</span></div>
               <div><strong>456</strong><span>In completed states</span></div>
               <div><strong>4 + 9</strong><span>Docs published + contributed to</span></div>
-              <p>August 2022–November 2026 contribution record. Work items include bugs, stories and tasks; completed states cover closed, released, done or resolved items.</p>
+              <p>August 2022–November 2026 contribution record, including an August 2022–May 2023 internship. Full-time experience began in May 2023. Work items include bugs, stories and tasks; completed states cover closed, released, done or resolved items.</p>
             </div>
             <div className="experience-layout">
               <div className="company-card">
@@ -583,10 +583,11 @@ export default function App() {
                 <article className="timeline-item">
                   <span className="timeline-dot" />
                   <div className="timeline-title">
-                    <h3>Associate Software Engineer</h3>
+                    <h3>Intern</h3>
                     <span>AUG 2022 — MAY 2023</span>
                   </div>
                   <p>
+                    Joined Odessa as an intern while completing my degree.
                     Developed frontend fundamentals in an enterprise codebase,
                     collaborating with product and QA teams on enhancements and
                     defect resolution.
@@ -677,9 +678,9 @@ export default function App() {
               <div className="learning-note">
                 <Sparkles size={17} />
                 <p>
-                  <strong>Project-based frontend skills</strong>React and TypeScript
-                  through independent application work. Web API knowledge is at a
-                  basic level.
+                  <strong>Frontend learning</strong>React: two months of learning
+                  as of November 2026. TypeScript: basic knowledge. Flowdesk is an
+                  AI-assisted learning project. Web API knowledge is at a basic level.
                 </p>
               </div>
             </div>

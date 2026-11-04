@@ -2,11 +2,11 @@
 
 **Siddharth P · August 2022–present**
 
-Senior Software Engineer, with production JavaScript, jQuery, Syncfusion, HTML5 and CSS3 experience across shared UI framework capabilities for leasing and finance applications.
+Senior Software Engineer with full-time experience since May 2023, following an August 2022–May 2023 internship. Production experience includes JavaScript, jQuery, Syncfusion, HTML5 and CSS3 across shared UI framework capabilities for leasing and finance applications.
 
 ## Contribution scope
 
-The contribution record for August 2022–November 2026 covers 495 work items, including bugs, stories, tasks, sub-tasks, requirements and enhancements. Of these, 456 were in closed, released, done or resolved states as of November 2026. These are work-item counts across multiple types, not feature or adoption counts.
+The contribution record for August 2022–November 2026 includes the internship period and covers 495 work items, including bugs, stories, tasks, sub-tasks, requirements and enhancements. Of these, 456 were in closed, released, done or resolved states as of November 2026. These are work-item counts across multiple types, not feature or adoption counts.
 
 Published four technical documentation pages and contributed to nine shared pages, covering reusable components, configuration, upgrade guidance and validation impact areas.
 
@@ -86,4 +86,4 @@ I owned the Syncfusion upgrade from 25.1.39 to 29.2.10 across core application a
 
 Professional experience also includes Playwright release sanity automation, production troubleshooting, memory-leak fixes, Content Security Policy and CSRF remediation. Supporting UI work includes ASP.NET MVC requirements, C# basics and SQL. Web API knowledge is basic; .NET 7 work is described as upgrade testing.
 
-React and TypeScript are separate personal-project and learning skills through Flowdesk and this portfolio. These public summaries contain no employer source code, internal screenshots, issue-tracker identifiers or customer data.
+React learning spans two months as of November 2026; TypeScript knowledge is basic. Flowdesk and this portfolio are AI-assisted personal learning projects. These public summaries contain no employer source code, internal screenshots, issue-tracker identifiers or customer data.

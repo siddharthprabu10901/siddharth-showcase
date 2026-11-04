@@ -38,7 +38,7 @@ export const caseStudies = {
       },
       {
         title: "Project scope",
-        text: "A browser-only frontend application with localStorage persistence and fictional records. Authentication, a shared backend, receipt uploads and real payment processing are outside its scope. React and TypeScript are project-based skills; my production frontend experience is in JavaScript, jQuery and Syncfusion.",
+        text: "A browser-only frontend application with localStorage persistence and fictional records. Authentication, a shared backend, receipt uploads and real payment processing are outside its scope. I have been learning React for two months as of November 2026 and have basic TypeScript knowledge. This AI-assisted learning project is separate from my production JavaScript, jQuery and Syncfusion experience.",
       },
     ],
     tags: ["React", "TypeScript", "Vite", "Playwright", "CSS"],

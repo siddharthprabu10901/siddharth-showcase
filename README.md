@@ -3,7 +3,7 @@
 **Senior Software Engineer · Enterprise UI and JavaScript Frameworks**  
 JavaScript · jQuery · Syncfusion · HTML5 · CSS3 · Playwright
 
-I build shared UI framework capabilities at Odessa Technologies, with 4+ years of experience across configuration-driven components, enterprise grids, navigation, component-library upgrades and release validation. This repository brings together my portfolio, an independent React project and high-level professional case studies.
+I build shared UI framework capabilities at Odessa Technologies, with 3+ years of full-time experience since May 2023 following an August 2022–May 2023 internship. My work covers configuration-driven components, enterprise grids, navigation, component-library upgrades and release validation. This repository brings together my portfolio, an AI-assisted learning project and high-level professional case studies.
 
 [Portfolio website](https://siddharthprabu10901.github.io/siddharth-showcase/) · [Flowdesk demo](https://siddharthprabu10901.github.io/siddharth-showcase/flowdesk/) · [LinkedIn](https://www.linkedin.com/in/siddharth-p-07a967217)
 
@@ -15,7 +15,7 @@ I build shared UI framework capabilities at Odessa Technologies, with 4+ years o
 | **Portfolio** | Professional background, project walkthroughs, responsive layout and contact details | [Application source](apps/portfolio) |
 | **Enterprise UI at Odessa** | Configuration-driven card layouts, safe navigation, conditional grid actions, regional formatting and the Syncfusion upgrade | [Professional case studies](docs/professional-case-studies.md) |
 
-React and TypeScript are **personal project skills**. My professional frontend experience centres on JavaScript, jQuery and Syncfusion. Supporting work includes ASP.NET MVC requirements, basic C# changes and SQL for UI needs; Web API knowledge is basic.
+React is **currently learning: two months as of November 2026**; TypeScript knowledge is **basic**, with no established experience duration. Flowdesk and this portfolio were developed with AI assistance. My professional frontend experience centres on JavaScript, jQuery and Syncfusion. Supporting work includes ASP.NET MVC requirements, basic C# changes and SQL for UI needs; Web API knowledge is basic.
 
 ## Professional delivery highlights
 
