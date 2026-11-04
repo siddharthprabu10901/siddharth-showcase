@@ -1,0 +1,16 @@
+{
+  "name": "siddharth-showcase",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "workspaces": ["apps/flowdesk", "apps/portfolio"],
+  "engines": { "node": ">=24" },
+  "scripts": {
+    "dev": "npm run dev --workspace apps/portfolio",
+    "dev:flowdesk": "npm run dev --workspace apps/flowdesk",
+    "build": "npm run build --workspaces && node scripts/assemble-site.mjs",
+    "preview": "npm run preview --workspace apps/portfolio -- --outDir ../../dist --configLoader native",
+    "test": "npm run test --workspace apps/flowdesk",
+    "test:e2e": "npm run test:e2e --workspace apps/flowdesk"
+  }
+}
